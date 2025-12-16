@@ -237,4 +237,5 @@ In WeekendBatch Jenkins Project Completed!!!!!
 *****************************************************************Suchith K****************************************************************
 
 Project is about to complete once we configure the notification
+Project Completed for m1 batch in Pune (Offline)
 
